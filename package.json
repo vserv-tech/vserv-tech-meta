@@ -2,9 +2,7 @@
   "name": "vserv-tech-meta",
   "version": "0.0.1",
   "description": "Meta repository for all vserv-tech related repos",
-  "main": " ",
   "scripts": {
-    "test": " "
   },
   "repository": {
     "type": "git",
