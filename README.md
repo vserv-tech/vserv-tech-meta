@@ -1,2 +1,11 @@
 # vserv-tech-meta
-Meta repository for all vserv-tech related repos
+
+A mateodelnorte/meta Project for all projects related to the vserv-tech project 
+
+## Included Projects
+
+see .meta file
+
+
+
+

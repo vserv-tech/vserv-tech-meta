@@ -1,0 +1,22 @@
+{
+  "name": "vserv-tech-meta",
+  "version": "0.0.1",
+  "description": "Meta repository for all vserv-tech related repos",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vserv-tech/vserv-tech-meta.git"
+  },
+  "keywords": [
+    "meta-repo"
+  ],
+  "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vserv-tech/vserv-tech-meta/issues"
+  },
+  "homepage": "https://github.com/vserv-tech/vserv-tech-meta#readme"
+}
