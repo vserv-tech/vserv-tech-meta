@@ -11,3 +11,7 @@
 [submodule "cli"]
 path = cli
 url = dummy_string_to_satisfy_vscode
+
+[submodule "spec"]
+path = spec
+url = dummy_string_to_satisfy_vscode

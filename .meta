@@ -1,5 +1,6 @@
 {
   "projects": {
-    "cli": "https://github.com/vserv-tech/vserv-cli"
+    "cli": "https://github.com/vserv-tech/vserv-cli",
+    "spec": "git@github.com:vserv-tech/vserv-spec.git"
   }
 }
