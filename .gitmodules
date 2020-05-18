@@ -1,0 +1,13 @@
+# This project DOES NOT really use .gitmodules.
+# But VSCode currently ignores the nested vcs roots of this meta repo,
+# because the folders of the nested repos are ignored in the .gitignore in the meta repo.
+#
+# The .gitmodules file with fake entries forces VSCode into tracking the git repos of the subfolders. 
+# The idea comes from p3t3r5 at:  
+# <https://github.com/microsoft/vscode/issues/37947>
+# 
+# **CAUTION:** This is a hack and could break in the future!
+
+[submodule "cli"]
+path = cli
+url = dummy_string_to_satisfy_vscode
