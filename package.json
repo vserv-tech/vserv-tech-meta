@@ -2,8 +2,7 @@
   "name": "vserv-tech-meta",
   "version": "0.0.1",
   "description": "Meta repository for all vserv-tech related repos",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vserv-tech/vserv-tech-meta.git"
@@ -16,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vserv-tech/vserv-tech-meta/issues"
   },
-  "homepage": "https://github.com/vserv-tech/vserv-tech-meta#readme"
+  "homepage": "https://github.com/vserv-tech/vserv-tech-meta#readme",
+  "dependencies": {
+    "@types/clear": "^0.1.0",
+    "@types/figlet": "^1.2.0"
+  }
 }
